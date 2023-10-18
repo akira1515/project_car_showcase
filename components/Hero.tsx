@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 
-const Hero = () => {
+export const Hero = () => {
   return (
     <div>Hero</div>
   )
